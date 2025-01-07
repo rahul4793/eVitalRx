@@ -45,9 +45,9 @@ npm start
 - **Request Body**:
     ```json
     {
-      "email": "user@example.com",
-      "password": "password123",
-      "name": "John Doe"
+      "email": "rahul@gmail.com.com",
+      "password": "password",
+      "name": "Rahul Gupta"
     }
     ```
 - **Response**:
@@ -65,8 +65,8 @@ npm start
 - **Request Body**:
     ```json
     {
-      "email": "user@example.com",
-      "password": "password123"
+      "email": "rahul@gmail.com.com",
+      "password": "password"
     }
     ```
 - **Response**:
