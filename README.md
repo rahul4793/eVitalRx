@@ -1,7 +1,7 @@
 # E-Commerce API
 
 # Deployed Link -> https://evitalrx.onrender.com
-
+# Testing Screenshots -> https://docs.google.com/document/d/1O3CqWLQm601UKPITbv8reYAi1TiQCKAVpdZXfZAbjuc/edit?usp=sharing
 ---
 
 ## Features
